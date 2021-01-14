@@ -1,0 +1,39 @@
+
+    .btn-color{
+        background-color: #fa404c;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+    }
+    .card-footer{
+        border: none;
+        background-color: white;
+    }
+    .card{
+        border-radius: 8px;
+    }
+    .bgcolor{
+        background-color: #fff9f4;
+    }
+    .image-size{
+        width: 80%!important;
+    }
+    .card-bg{
+        background-color: #fff9f4;
+        border: 1px solid  #fff9f4;
+        border-radius: 10px;
+    }
+    .contact{
+        background-color: #fceae8;
+        padding: 66px;
+    }
+  .gmail{
+      padding-right: 88px;
+  }
+  .stay{
+      padding-right: 28px;
+  }
+  .gmail-bar{
+      padding-left: 88px;
+  }
