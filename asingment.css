@@ -1,4 +1,7 @@
-
+    *{
+        color: #363958;
+    }
+    
     .btn-color{
         background-color: #fa404c;
         color: white;
@@ -10,20 +13,38 @@
         border: none;
         background-color: white;
     }
+   .fonts1{
+    font-family: 'Yusei Magic', sans-serif;
+   }
     .card{
         border-radius: 8px;
     }
-    .bgcolor{
+    #nike{
+        color: #fa804c;
+        font-family: 'Yusei Magic', sans-serif;
+    }
+    .bgcolor,.bgout{
         background-color: #fff9f4;
     }
     .image-size{
         width: 80%!important;
     }
-    .card-bg{
-        background-color: #fff9f4;
-        border: 1px solid  #fff9f4;
+    .card-bg1{
+        background-image: linear-gradient(to bottom,#f1d89f , #d6a62e);
+       
         border-radius: 10px;
     }
+    .card-bg2{
+        background-image: linear-gradient(to bottom, #94cedc , #28a3b5);
+       
+        border-radius: 10px;
+    }
+    .card-bg3{
+        background-image: linear-gradient(to bottom,#eab9bc , #c67e82);
+       
+        border-radius: 10px;
+    }
+    
     .contact{
         background-color: #fceae8;
         padding: 66px;
@@ -37,3 +58,6 @@
   .gmail-bar{
       padding-left: 88px;
   }
+  .image-style{
+    margin-top: 100px;
+}
